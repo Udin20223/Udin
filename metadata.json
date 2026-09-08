@@ -1,0 +1,6 @@
+{
+  "name": "KiddiesSmart+ Sales Page",
+  "description": "High-converting sales page for KiddiesSmart+ Adaptive Learning Education Game for parents in Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
